@@ -59,6 +59,7 @@ def main():
   elif (fun == "No"):
     print("I'm sorry")
   print("Have a good day! " + name)
+  print("I hope you had fun")
 
 
 
